@@ -10,11 +10,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-
-            String fred  = "Test Stuff";
-            String sid = "More Test STuff";
-            String bill = "And more....";
-            String Tom = "dgdgdfgdfgdf";
+        
         }
     }
 }
