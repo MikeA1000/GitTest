@@ -14,6 +14,7 @@ namespace GitTest
             String fred  = "Test Stuff";
             String sid = "More Test STuff";
             String bill = "And more....";
+            String Tom = "dgdgdfgdfgdf";
         }
     }
 }
