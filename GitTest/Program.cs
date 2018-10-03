@@ -12,6 +12,7 @@ namespace GitTest
         {
 
             String fred  = "Test Stuff";
+            String sid = "More Test STuff";
         }
     }
 }
